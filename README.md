@@ -47,3 +47,6 @@ Each section includes code examples, explanations of why specific approaches wer
 
 # OUTPUT
 
+
+<img width="1680" height="934" alt="Image" src="https://github.com/user-attachments/assets/789c9991-64c9-4dbd-bf4a-c1f7f96b1bad" />
+
